@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 
-
+import PokemonDetails from './Components/search/PokemonSearch';
 ReactDOM.render(
   <React.StrictMode>
     <App />
